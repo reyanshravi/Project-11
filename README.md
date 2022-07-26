@@ -10,10 +10,12 @@
 
 ## Time to finish this project
 
--   8 hour 
+> 8 hour 
+
+---
 
 > You can checkout these codes on github also.
-[Project-2 on github](https://github.com/reyanshravi/Project-11)
+[Project-11 on github](https://github.com/reyanshravi/Project-11)
 
 > Also Checkout the demo on netlify.
 [Netlify Demo](https://reyansh-ravi-proj-11.netlify.app/)
